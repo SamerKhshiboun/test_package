@@ -1,0 +1,8 @@
+<package format="2">
+  <name>test_package</name>
+  <version>1.0.0</version>
+  <description>
+  test package
+  </description>
+  <maintainer email="samer.cana@gmail.com">Samer</maintainer>
+</package>
